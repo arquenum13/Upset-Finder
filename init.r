@@ -6,7 +6,7 @@
 ###########################################################
 # Update this line with the R packages to install:
 
-my_packages = c("shiny","markdown","magrittr","DT", "shinydashboard")
+my_packages = c("shiny","markdown","magrittr","DT", "shinydashboard","viridis","ggplot2")
 
 ###########################################################
 

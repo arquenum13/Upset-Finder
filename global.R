@@ -6,8 +6,6 @@ library(shinydashboard)
 library(ggplot2)
 library(viridis)
 
-yaml::yaml.load("manifest.yml")
-
 df <- read.csv("2015-2016_Schedule.csv", header = TRUE)
 df$Date <- as.Date(gsub("/","-",as.character(df$Date)), "%m-%d-%Y")
 current1 <- as.Date("2015-11-20")
