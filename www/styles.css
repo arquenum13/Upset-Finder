@@ -1,0 +1,67 @@
+@import url('//fonts.googleapis.com/css?family=PT Sans Narrow|Cabin:400,700');
+
+h1 {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 75px;
+  text-align:center;
+  color: #FFFFFF;
+}
+
+h2 {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 50px;
+  text-align: left;
+  color: #FFFFFF;
+}
+
+p {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 15px;
+  color: #FFFFFF;
+}
+
+.bhome {
+  background-image: url(raleigh-pnc-arena-02.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: #222D32;
+}
+
+.wrap {
+  filter: grayscale(20%);
+}
+
+.body {
+  background-color: #222D32;
+}
+
+.check {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 75px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.check2 {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 40px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.button {
+  color: #FF9900;
+}
+
+.content {
+  padding: 20px;
+}
+
+#raleigh-pnc-arena-02 {
+  filter: grayscale(100%)
+}
+
+.content-wrapper {
+  background-color: #222D32;
+}
