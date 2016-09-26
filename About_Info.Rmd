@@ -18,19 +18,28 @@ The proposed approach constructs a logistic regression model, built using 2015-2
 
 Manipulate and Format the data to reflect the below stats for each team: 3P, 3P%, 3PA, AST, BLK, Blocks, Date, DRB, DRtg, DRtg/A, ELO Rating, FG, FG%, FGA, FT, FT%, FTA, L, MP, ORB, ORtg, PF, PTS, Schl, SOS, STL, TOV, TOV%, TRB, Team, W, and W-L%. Descriptions and legend can be found below:
 
+<center>
+<img src="FeatureTable.jpg" width="500">
+</center>
+
 The statistics for each team and their opponent are matched and the relative difference is calculated. The resulting values are passed through a logistic regression model. Note, the team ELO rating is used to determine which team is favored (higher ELO rating) heading into the matchup.
 
 Select variables in the context of generalized linear models using a stepwise procedure.
-
-Figure 1 represents the comparison between models using the Brier score. Removal of variables was determined by selecting the least statistically significant variable.  The results show that the model with 16 variables performed the best.
 
 <center>
 ![](myplot.png)
 </center>
 
-Figure 2 represents the comparison of decision thresholds for the logistic model. Incrementing the decision threshold by 0.5 produced a curve to determine the optimal threshold. For the selected model, a threshold of 0.4 performs the best.
+Figure 1 represents the comparison between models using the Brier score. Removal of variables was determined by selecting the least statistically significant variable.  The results show that the model with 16 variables performed the best.
 
 <center>
 ![](myplot2.png)
 </center>
 
+Figure 2 represents the comparison of decision thresholds for the logistic model. Incrementing the decision threshold by 0.5 produced a curve to determine the optimal threshold. For the selected model, a threshold of 0.4 performs the best.
+
+## Data Insights
+
+<center>
+<img src="2014-2016_BoxPlot.png" width="500">
+</center>

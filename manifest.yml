@@ -1,0 +1,6 @@
+---
+applications:
+- name: rshinyapp
+  instances: 1
+  output:
+  html_fragment: default

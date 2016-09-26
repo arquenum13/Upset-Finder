@@ -1,0 +1,1015 @@
+"SEASON","TEAM_CONF","OPP_CONF","EXPECTED","UPSET","TOTAL","PERCENT"
+"2014","ACC","American Athletic",24,4,28,0.142857142857143
+"2014","ACC","Atlantic 10",16,3,19,0.157894736842105
+"2014","ACC","Atlantic Sun",6,1,7,0.142857142857143
+"2014","ACC","Big 12",5,1,6,0.166666666666667
+"2014","ACC","Big East",5,1,6,0.166666666666667
+"2014","ACC","Big South",8,3,11,0.272727272727273
+"2014","ACC","Big Ten",31,7,38,0.184210526315789
+"2014","ACC","Colonial Athletic",7,1,8,0.125
+"2014","ACC","Conference USA",4,4,8,0.5
+"2014","ACC","Horizon League",5,0,5,0
+"2014","ACC","MEAC",10,2,12,0.166666666666667
+"2014","ACC","Pac 12",4,4,8,0.5
+"2014","ACC","Patriot League",6,1,7,0.142857142857143
+"2014","ACC","Southeastern",13,2,15,0.133333333333333
+"2014","ACC","Southern",9,3,12,0.25
+"2014","America East","Atlantic 10",15,0,15,0
+"2014","America East","Atlantic Sun",6,2,8,0.25
+"2014","America East","Ivy League",15,3,18,0.166666666666667
+"2014","America East","MAAC",9,3,12,0.25
+"2014","America East","Northeast",10,3,13,0.230769230769231
+"2014","America East","Patriot League",15,2,17,0.117647058823529
+"2014","American Athletic","ACC",22,6,28,0.214285714285714
+"2014","American Athletic","Atlantic Sun",7,0,7,0
+"2014","American Athletic","Big 12",9,1,10,0.1
+"2014","American Athletic","Big Ten",19,2,21,0.0952380952380952
+"2014","American Athletic","Colonial Athletic",4,1,5,0.2
+"2014","American Athletic","Conference USA",38,14,52,0.269230769230769
+"2014","American Athletic","Horizon League",6,1,7,0.142857142857143
+"2014","American Athletic","MEAC",7,1,8,0.125
+"2014","American Athletic","Missouri Valley",4,1,5,0.2
+"2014","American Athletic","Southeastern",5,4,9,0.444444444444444
+"2014","American Athletic","Southland",5,1,6,0.166666666666667
+"2014","American Athletic","Sun Belt",7,1,8,0.125
+"2014","American Athletic","SWAC",5,3,8,0.375
+"2014","Atlantic 10","ACC",17,2,19,0.105263157894737
+"2014","Atlantic 10","America East",13,2,15,0.133333333333333
+"2014","Atlantic 10","Big 12",5,0,5,0
+"2014","Atlantic 10","Big East",9,1,10,0.1
+"2014","Atlantic 10","Big Ten",6,1,7,0.142857142857143
+"2014","Atlantic 10","Colonial Athletic",13,1,14,0.0714285714285714
+"2014","Atlantic 10","Conference USA",6,1,7,0.142857142857143
+"2014","Atlantic 10","Ivy League",7,1,8,0.125
+"2014","Atlantic 10","MAAC",14,3,17,0.176470588235294
+"2014","Atlantic 10","MEAC",6,1,7,0.142857142857143
+"2014","Atlantic 10","Mid-American",8,0,8,0
+"2014","Atlantic 10","Missouri Valley",11,0,11,0
+"2014","Atlantic 10","Northeast",8,1,9,0.111111111111111
+"2014","Atlantic 10","Ohio Valley",3,3,6,0.5
+"2014","Atlantic 10","Pac 12",5,0,5,0
+"2014","Atlantic 10","Patriot League",4,2,6,0.333333333333333
+"2014","Atlantic 10","Southeastern",6,2,8,0.25
+"2014","Atlantic 10","Southern",13,3,16,0.1875
+"2014","Atlantic Sun","ACC",7,0,7,0
+"2014","Atlantic Sun","America East",6,2,8,0.25
+"2014","Atlantic Sun","American Athletic",7,0,7,0
+"2014","Atlantic Sun","Big Ten",5,0,5,0
+"2014","Atlantic Sun","Conference USA",6,1,7,0.142857142857143
+"2014","Atlantic Sun","Horizon League",13,2,15,0.133333333333333
+"2014","Atlantic Sun","MEAC",10,3,13,0.230769230769231
+"2014","Atlantic Sun","Northeast",5,0,5,0
+"2014","Atlantic Sun","Ohio Valley",8,1,9,0.111111111111111
+"2014","Atlantic Sun","Southeastern",9,0,9,0
+"2014","Atlantic Sun","Southern",29,10,39,0.256410256410256
+"2014","Big 12","ACC",3,3,6,0.5
+"2014","Big 12","American Athletic",9,1,10,0.1
+"2014","Big 12","Atlantic 10",3,2,5,0.4
+"2014","Big 12","Big East",6,0,6,0
+"2014","Big 12","Big Ten",6,1,7,0.142857142857143
+"2014","Big 12","Conference USA",9,0,9,0
+"2014","Big 12","Pac 12",5,1,6,0.166666666666667
+"2014","Big 12","Southeastern",9,4,13,0.307692307692308
+"2014","Big 12","Southland",7,2,9,0.222222222222222
+"2014","Big 12","Sun Belt",5,4,9,0.444444444444444
+"2014","Big 12","SWAC",6,0,6,0
+"2014","Big East","ACC",4,2,6,0.333333333333333
+"2014","Big East","Atlantic 10",8,2,10,0.2
+"2014","Big East","Big 12",5,1,6,0.166666666666667
+"2014","Big East","Big Ten",9,3,12,0.25
+"2014","Big East","Ivy League",5,1,6,0.166666666666667
+"2014","Big East","MAAC",7,0,7,0
+"2014","Big East","Mid-American",4,1,5,0.2
+"2014","Big East","Pac 12",7,2,9,0.222222222222222
+"2014","Big East","Southeastern",7,0,7,0
+"2014","Big East","SWAC",5,0,5,0
+"2014","Big Sky","Big West",18,2,20,0.1
+"2014","Big Sky","Mountain West",12,1,13,0.0769230769230769
+"2014","Big Sky","Pac 12",12,0,12,0
+"2014","Big Sky","West Coast",9,2,11,0.181818181818182
+"2014","Big Sky","Western Athletic",22,5,27,0.185185185185185
+"2014","Big South","ACC",11,0,11,0
+"2014","Big South","Colonial Athletic",11,1,12,0.0833333333333333
+"2014","Big South","MEAC",13,1,14,0.0714285714285714
+"2014","Big South","Northeast",4,1,5,0.2
+"2014","Big South","Ohio Valley",4,1,5,0.2
+"2014","Big South","Southeastern",7,0,7,0
+"2014","Big South","Southern",28,9,37,0.243243243243243
+"2014","Big South","Sun Belt",4,3,7,0.428571428571429
+"2014","Big Ten","ACC",33,5,38,0.131578947368421
+"2014","Big Ten","American Athletic",17,4,21,0.19047619047619
+"2014","Big Ten","Atlantic 10",6,1,7,0.142857142857143
+"2014","Big Ten","Atlantic Sun",5,0,5,0
+"2014","Big Ten","Big 12",5,2,7,0.285714285714286
+"2014","Big Ten","Big East",11,1,12,0.0833333333333333
+"2014","Big Ten","Conference USA",6,0,6,0
+"2014","Big Ten","Horizon League",7,1,8,0.125
+"2014","Big Ten","Ivy League",5,3,8,0.375
+"2014","Big Ten","MAAC",6,0,6,0
+"2014","Big Ten","MEAC",8,1,9,0.111111111111111
+"2014","Big Ten","Mid-American",4,1,5,0.2
+"2014","Big Ten","Missouri Valley",3,2,5,0.4
+"2014","Big Ten","Northeast",9,0,9,0
+"2014","Big Ten","Pac 12",8,0,8,0
+"2014","Big Ten","Patriot League",6,0,6,0
+"2014","Big Ten","Southeastern",6,2,8,0.25
+"2014","Big Ten","Southland",8,0,8,0
+"2014","Big Ten","Summit League",6,0,6,0
+"2014","Big West","Big Sky",16,4,20,0.2
+"2014","Big West","Mountain West",14,2,16,0.125
+"2014","Big West","Pac 12",15,3,18,0.166666666666667
+"2014","Big West","West Coast",8,5,13,0.384615384615385
+"2014","Big West","Western Athletic",7,0,7,0
+"2014","Colonial Athletic","ACC",8,0,8,0
+"2014","Colonial Athletic","American Athletic",4,1,5,0.2
+"2014","Colonial Athletic","Atlantic 10",14,0,14,0
+"2014","Colonial Athletic","Big South",7,5,12,0.416666666666667
+"2014","Colonial Athletic","Conference USA",9,2,11,0.181818181818182
+"2014","Colonial Athletic","Horizon League",4,1,5,0.2
+"2014","Colonial Athletic","MAAC",8,0,8,0
+"2014","Colonial Athletic","MEAC",6,2,8,0.25
+"2014","Colonial Athletic","Northeast",6,2,8,0.25
+"2014","Colonial Athletic","Pac 12",5,0,5,0
+"2014","Colonial Athletic","Southern",15,3,18,0.166666666666667
+"2014","Colonial Athletic","Sun Belt",5,0,5,0
+"2014","Conference USA","ACC",7,1,8,0.125
+"2014","Conference USA","American Athletic",44,8,52,0.153846153846154
+"2014","Conference USA","Atlantic 10",6,1,7,0.142857142857143
+"2014","Conference USA","Atlantic Sun",6,1,7,0.142857142857143
+"2014","Conference USA","Big 12",9,0,9,0
+"2014","Conference USA","Big Ten",4,2,6,0.333333333333333
+"2014","Conference USA","Colonial Athletic",8,3,11,0.272727272727273
+"2014","Conference USA","MEAC",7,1,8,0.125
+"2014","Conference USA","Ohio Valley",6,3,9,0.333333333333333
+"2014","Conference USA","Southeastern",9,2,11,0.181818181818182
+"2014","Conference USA","Southern",6,0,6,0
+"2014","Conference USA","Southland",12,5,17,0.294117647058824
+"2014","Conference USA","Sun Belt",31,4,35,0.114285714285714
+"2014","Conference USA","SWAC",6,0,6,0
+"2014","Conference USA","Western Athletic",5,1,6,0.166666666666667
+"2014","Horizon League","ACC",4,1,5,0.2
+"2014","Horizon League","American Athletic",5,2,7,0.285714285714286
+"2014","Horizon League","Atlantic Sun",14,1,15,0.0666666666666667
+"2014","Horizon League","Big Ten",8,0,8,0
+"2014","Horizon League","Colonial Athletic",4,1,5,0.2
+"2014","Horizon League","Mid-American",17,2,19,0.105263157894737
+"2014","Horizon League","Missouri Valley",6,1,7,0.142857142857143
+"2014","Horizon League","Northeast",2,3,5,0.6
+"2014","Horizon League","Ohio Valley",11,2,13,0.153846153846154
+"2014","Horizon League","Southern",9,1,10,0.1
+"2014","Horizon League","Sun Belt",4,1,5,0.2
+"2014","Horizon League","West Coast",4,2,6,0.333333333333333
+"2014","Ivy League","America East",18,0,18,0
+"2014","Ivy League","Atlantic 10",8,0,8,0
+"2014","Ivy League","Big East",6,0,6,0
+"2014","Ivy League","Big Ten",8,0,8,0
+"2014","Ivy League","MAAC",6,2,8,0.25
+"2014","Ivy League","Northeast",13,0,13,0
+"2014","Ivy League","Patriot League",12,1,13,0.0769230769230769
+"2014","MAAC","America East",11,1,12,0.0833333333333333
+"2014","MAAC","Atlantic 10",12,5,17,0.294117647058824
+"2014","MAAC","Big East",6,1,7,0.142857142857143
+"2014","MAAC","Big Ten",6,0,6,0
+"2014","MAAC","Colonial Athletic",4,4,8,0.5
+"2014","MAAC","Ivy League",6,2,8,0.25
+"2014","MAAC","Mid-American",4,1,5,0.2
+"2014","MAAC","Northeast",7,1,8,0.125
+"2014","MAAC","Patriot League",6,3,9,0.333333333333333
+"2014","MEAC","ACC",12,0,12,0
+"2014","MEAC","American Athletic",8,0,8,0
+"2014","MEAC","Atlantic 10",7,0,7,0
+"2014","MEAC","Atlantic Sun",12,1,13,0.0769230769230769
+"2014","MEAC","Big South",7,7,14,0.5
+"2014","MEAC","Big Ten",9,0,9,0
+"2014","MEAC","Colonial Athletic",8,0,8,0
+"2014","MEAC","Conference USA",7,1,8,0.125
+"2014","MEAC","Mid-American",7,0,7,0
+"2014","MEAC","Northeast",8,0,8,0
+"2014","MEAC","Pac 12",5,1,6,0.166666666666667
+"2014","MEAC","Southeastern",8,0,8,0
+"2014","Mid-American","Atlantic 10",6,2,8,0.25
+"2014","Mid-American","Big East",5,0,5,0
+"2014","Mid-American","Big Ten",5,0,5,0
+"2014","Mid-American","Horizon League",14,5,19,0.263157894736842
+"2014","Mid-American","MAAC",5,0,5,0
+"2014","Mid-American","MEAC",7,0,7,0
+"2014","Mid-American","Missouri Valley",7,2,9,0.222222222222222
+"2014","Mid-American","Ohio Valley",5,3,8,0.375
+"2014","Mid-American","Southeastern",5,0,5,0
+"2014","Mid-American","Summit League",4,1,5,0.2
+"2014","Missouri Valley","American Athletic",5,0,5,0
+"2014","Missouri Valley","Atlantic 10",9,2,11,0.181818181818182
+"2014","Missouri Valley","Big Ten",4,1,5,0.2
+"2014","Missouri Valley","Horizon League",7,0,7,0
+"2014","Missouri Valley","Mid-American",8,1,9,0.111111111111111
+"2014","Missouri Valley","Ohio Valley",12,1,13,0.0769230769230769
+"2014","Missouri Valley","Southeastern",4,1,5,0.2
+"2014","Missouri Valley","Summit League",7,0,7,0
+"2014","Missouri Valley","SWAC",5,0,5,0
+"2014","Missouri Valley","West Coast",6,2,8,0.25
+"2014","Missouri Valley","Western Athletic",7,0,7,0
+"2014","Mountain West","Big Sky",11,2,13,0.153846153846154
+"2014","Mountain West","Big West",11,5,16,0.3125
+"2014","Mountain West","Pac 12",13,0,13,0
+"2014","Mountain West","Southeastern",6,0,6,0
+"2014","Mountain West","Summit League",5,1,6,0.166666666666667
+"2014","Mountain West","SWAC",4,1,5,0.2
+"2014","Mountain West","West Coast",8,5,13,0.384615384615385
+"2014","Mountain West","Western Athletic",5,3,8,0.375
+"2014","Northeast","America East",10,3,13,0.230769230769231
+"2014","Northeast","Atlantic 10",7,2,9,0.222222222222222
+"2014","Northeast","Atlantic Sun",3,2,5,0.4
+"2014","Northeast","Big South",5,0,5,0
+"2014","Northeast","Big Ten",8,1,9,0.111111111111111
+"2014","Northeast","Colonial Athletic",6,2,8,0.25
+"2014","Northeast","Horizon League",5,0,5,0
+"2014","Northeast","Ivy League",11,2,13,0.153846153846154
+"2014","Northeast","MAAC",6,2,8,0.25
+"2014","Northeast","MEAC",5,3,8,0.375
+"2014","Northeast","Patriot League",14,5,19,0.263157894736842
+"2014","Ohio Valley","Atlantic 10",6,0,6,0
+"2014","Ohio Valley","Atlantic Sun",8,1,9,0.111111111111111
+"2014","Ohio Valley","Big South",4,1,5,0.2
+"2014","Ohio Valley","Conference USA",7,2,9,0.222222222222222
+"2014","Ohio Valley","Horizon League",11,2,13,0.153846153846154
+"2014","Ohio Valley","Mid-American",7,1,8,0.125
+"2014","Ohio Valley","Missouri Valley",10,3,13,0.230769230769231
+"2014","Ohio Valley","Southeastern",10,0,10,0
+"2014","Ohio Valley","Southern",7,1,8,0.125
+"2014","Ohio Valley","Southland",3,2,5,0.4
+"2014","Ohio Valley","Summit League",10,1,11,0.0909090909090909
+"2014","Ohio Valley","SWAC",4,2,6,0.333333333333333
+"2014","Ohio Valley","Western Athletic",8,2,10,0.2
+"2014","Pac 12","ACC",8,0,8,0
+"2014","Pac 12","Atlantic 10",4,1,5,0.2
+"2014","Pac 12","Big 12",6,0,6,0
+"2014","Pac 12","Big East",8,1,9,0.111111111111111
+"2014","Pac 12","Big Sky",8,4,12,0.333333333333333
+"2014","Pac 12","Big Ten",5,3,8,0.375
+"2014","Pac 12","Big West",15,3,18,0.166666666666667
+"2014","Pac 12","Colonial Athletic",4,1,5,0.2
+"2014","Pac 12","MEAC",6,0,6,0
+"2014","Pac 12","Mountain West",12,1,13,0.0769230769230769
+"2014","Pac 12","Southeastern",5,0,5,0
+"2014","Pac 12","SWAC",8,0,8,0
+"2014","Pac 12","West Coast",6,2,8,0.25
+"2014","Pac 12","Western Athletic",6,0,6,0
+"2014","Patriot League","ACC",7,0,7,0
+"2014","Patriot League","America East",17,0,17,0
+"2014","Patriot League","Atlantic 10",6,0,6,0
+"2014","Patriot League","Big Ten",4,2,6,0.333333333333333
+"2014","Patriot League","Ivy League",12,1,13,0.0769230769230769
+"2014","Patriot League","MAAC",6,3,9,0.333333333333333
+"2014","Patriot League","Northeast",15,4,19,0.210526315789474
+"2014","Southeastern","ACC",9,6,15,0.4
+"2014","Southeastern","American Athletic",8,1,9,0.111111111111111
+"2014","Southeastern","Atlantic 10",8,0,8,0
+"2014","Southeastern","Atlantic Sun",7,2,9,0.222222222222222
+"2014","Southeastern","Big 12",12,1,13,0.0769230769230769
+"2014","Southeastern","Big East",6,1,7,0.142857142857143
+"2014","Southeastern","Big South",5,2,7,0.285714285714286
+"2014","Southeastern","Big Ten",7,1,8,0.125
+"2014","Southeastern","Conference USA",7,4,11,0.363636363636364
+"2014","Southeastern","MEAC",8,0,8,0
+"2014","Southeastern","Mid-American",3,2,5,0.4
+"2014","Southeastern","Missouri Valley",5,0,5,0
+"2014","Southeastern","Mountain West",5,1,6,0.166666666666667
+"2014","Southeastern","Ohio Valley",8,2,10,0.2
+"2014","Southeastern","Pac 12",4,1,5,0.2
+"2014","Southeastern","Southern",3,2,5,0.4
+"2014","Southeastern","Southland",8,3,11,0.272727272727273
+"2014","Southeastern","Sun Belt",6,4,10,0.4
+"2014","Southeastern","SWAC",9,0,9,0
+"2014","Southern","ACC",11,1,12,0.0833333333333333
+"2014","Southern","Atlantic 10",15,1,16,0.0625
+"2014","Southern","Atlantic Sun",36,3,39,0.0769230769230769
+"2014","Southern","Big South",27,10,37,0.27027027027027
+"2014","Southern","Colonial Athletic",13,5,18,0.277777777777778
+"2014","Southern","Conference USA",5,1,6,0.166666666666667
+"2014","Southern","Horizon League",8,2,10,0.2
+"2014","Southern","Ohio Valley",6,2,8,0.25
+"2014","Southern","Southeastern",4,1,5,0.2
+"2014","Southern","Sun Belt",23,6,29,0.206896551724138
+"2014","Southland","American Athletic",6,0,6,0
+"2014","Southland","Big 12",9,0,9,0
+"2014","Southland","Big Ten",8,0,8,0
+"2014","Southland","Conference USA",12,5,17,0.294117647058824
+"2014","Southland","Ohio Valley",5,0,5,0
+"2014","Southland","Southeastern",10,1,11,0.0909090909090909
+"2014","Southland","Summit League",16,7,23,0.304347826086957
+"2014","Southland","Sun Belt",10,1,11,0.0909090909090909
+"2014","Summit League","Big Ten",6,0,6,0
+"2014","Summit League","Mid-American",4,1,5,0.2
+"2014","Summit League","Missouri Valley",6,1,7,0.142857142857143
+"2014","Summit League","Mountain West",4,2,6,0.333333333333333
+"2014","Summit League","Ohio Valley",9,2,11,0.181818181818182
+"2014","Summit League","Southland",21,2,23,0.0869565217391304
+"2014","Summit League","West Coast",6,0,6,0
+"2014","Summit League","Western Athletic",5,0,5,0
+"2014","Sun Belt","American Athletic",6,2,8,0.25
+"2014","Sun Belt","Big 12",9,0,9,0
+"2014","Sun Belt","Big South",7,0,7,0
+"2014","Sun Belt","Colonial Athletic",5,0,5,0
+"2014","Sun Belt","Conference USA",29,6,35,0.171428571428571
+"2014","Sun Belt","Horizon League",4,1,5,0.2
+"2014","Sun Belt","Southeastern",10,0,10,0
+"2014","Sun Belt","Southern",24,5,29,0.172413793103448
+"2014","Sun Belt","Southland",10,1,11,0.0909090909090909
+"2014","Sun Belt","SWAC",4,2,6,0.333333333333333
+"2014","SWAC","American Athletic",7,1,8,0.125
+"2014","SWAC","Big 12",6,0,6,0
+"2014","SWAC","Big East",5,0,5,0
+"2014","SWAC","Conference USA",6,0,6,0
+"2014","SWAC","Missouri Valley",4,1,5,0.2
+"2014","SWAC","Mountain West",4,1,5,0.2
+"2014","SWAC","Ohio Valley",6,0,6,0
+"2014","SWAC","Pac 12",8,0,8,0
+"2014","SWAC","Southeastern",9,0,9,0
+"2014","SWAC","Sun Belt",5,1,6,0.166666666666667
+"2014","West Coast","Big Sky",10,1,11,0.0909090909090909
+"2014","West Coast","Big West",11,2,13,0.153846153846154
+"2014","West Coast","Horizon League",6,0,6,0
+"2014","West Coast","Missouri Valley",7,1,8,0.125
+"2014","West Coast","Mountain West",9,4,13,0.307692307692308
+"2014","West Coast","Pac 12",8,0,8,0
+"2014","West Coast","Summit League",6,0,6,0
+"2014","West Coast","Western Athletic",4,1,5,0.2
+"2014","Western Athletic","Big Sky",24,3,27,0.111111111111111
+"2014","Western Athletic","Big West",4,3,7,0.428571428571429
+"2014","Western Athletic","Conference USA",6,0,6,0
+"2014","Western Athletic","Missouri Valley",5,2,7,0.285714285714286
+"2014","Western Athletic","Mountain West",8,0,8,0
+"2014","Western Athletic","Ohio Valley",8,2,10,0.2
+"2014","Western Athletic","Pac 12",6,0,6,0
+"2014","Western Athletic","Summit League",5,0,5,0
+"2014","Western Athletic","West Coast",5,0,5,0
+"2015","ACC","America East",6,0,6,0
+"2015","ACC","American Athletic",7,1,8,0.125
+"2015","ACC","Atlantic 10",11,4,15,0.266666666666667
+"2015","ACC","Atlantic Sun",5,1,6,0.166666666666667
+"2015","ACC","Big East",8,1,9,0.111111111111111
+"2015","ACC","Big South",7,3,10,0.3
+"2015","ACC","Big Ten",19,2,21,0.0952380952380952
+"2015","ACC","Colonial Athletic",8,0,8,0
+"2015","ACC","Conference USA",8,1,9,0.111111111111111
+"2015","ACC","Horizon League",5,0,5,0
+"2015","ACC","MAAC",7,0,7,0
+"2015","ACC","MEAC",12,0,12,0
+"2015","ACC","Northeast",6,0,6,0
+"2015","ACC","Patriot League",7,0,7,0
+"2015","ACC","Southeastern",12,3,15,0.2
+"2015","ACC","Southern",8,1,9,0.111111111111111
+"2015","America East","ACC",6,0,6,0
+"2015","America East","Atlantic 10",6,1,7,0.142857142857143
+"2015","America East","Atlantic Sun",6,2,8,0.25
+"2015","America East","Big East",5,0,5,0
+"2015","America East","Ivy League",14,3,17,0.176470588235294
+"2015","America East","MAAC",11,3,14,0.214285714285714
+"2015","America East","Mid-American",5,0,5,0
+"2015","America East","Northeast",13,2,15,0.133333333333333
+"2015","America East","Patriot League",14,2,16,0.125
+"2015","American Athletic","ACC",7,1,8,0.125
+"2015","American Athletic","Atlantic 10",5,0,5,0
+"2015","American Athletic","Big 12",6,2,8,0.25
+"2015","American Athletic","Big East",4,1,5,0.2
+"2015","American Athletic","Colonial Athletic",2,4,6,0.666666666666667
+"2015","American Athletic","Conference USA",4,2,6,0.333333333333333
+"2015","American Athletic","Horizon League",4,1,5,0.2
+"2015","American Athletic","MEAC",8,1,9,0.111111111111111
+"2015","American Athletic","Missouri Valley",4,2,6,0.333333333333333
+"2015","American Athletic","Mountain West",3,2,5,0.4
+"2015","American Athletic","Northeast",6,0,6,0
+"2015","American Athletic","Ohio Valley",5,0,5,0
+"2015","American Athletic","Southeastern",5,1,6,0.166666666666667
+"2015","American Athletic","Southland",7,2,9,0.222222222222222
+"2015","American Athletic","SWAC",8,0,8,0
+"2015","Atlantic 10","ACC",15,0,15,0
+"2015","Atlantic 10","America East",4,3,7,0.428571428571429
+"2015","Atlantic 10","American Athletic",3,2,5,0.4
+"2015","Atlantic 10","Big East",8,0,8,0
+"2015","Atlantic 10","Big Ten",6,0,6,0
+"2015","Atlantic 10","Colonial Athletic",8,4,12,0.333333333333333
+"2015","Atlantic 10","Conference USA",7,0,7,0
+"2015","Atlantic 10","Ivy League",6,1,7,0.142857142857143
+"2015","Atlantic 10","MAAC",9,7,16,0.4375
+"2015","Atlantic 10","MEAC",8,2,10,0.2
+"2015","Atlantic 10","Mid-American",5,2,7,0.285714285714286
+"2015","Atlantic 10","Missouri Valley",6,3,9,0.333333333333333
+"2015","Atlantic 10","Northeast",4,1,5,0.2
+"2015","Atlantic 10","Southeastern",7,1,8,0.125
+"2015","Atlantic Sun","ACC",6,0,6,0
+"2015","Atlantic Sun","America East",8,0,8,0
+"2015","Atlantic Sun","Big East",5,1,6,0.166666666666667
+"2015","Atlantic Sun","Big Ten",4,2,6,0.333333333333333
+"2015","Atlantic Sun","Conference USA",6,0,6,0
+"2015","Atlantic Sun","Horizon League",13,5,18,0.277777777777778
+"2015","Atlantic Sun","MEAC",12,3,15,0.2
+"2015","Atlantic Sun","Ohio Valley",9,2,11,0.181818181818182
+"2015","Atlantic Sun","Southeastern",7,0,7,0
+"2015","Atlantic Sun","Southern",4,2,6,0.333333333333333
+"2015","Big 12","American Athletic",8,0,8,0
+"2015","Big 12","Big Ten",5,3,8,0.375
+"2015","Big 12","Conference USA",6,0,6,0
+"2015","Big 12","Missouri Valley",4,1,5,0.2
+"2015","Big 12","Pac 12",6,2,8,0.25
+"2015","Big 12","Southeastern",18,3,21,0.142857142857143
+"2015","Big 12","Southland",9,0,9,0
+"2015","Big 12","SWAC",13,0,13,0
+"2015","Big East","ACC",4,5,9,0.555555555555556
+"2015","Big East","America East",5,0,5,0
+"2015","Big East","American Athletic",5,0,5,0
+"2015","Big East","Atlantic 10",6,2,8,0.25
+"2015","Big East","Atlantic Sun",5,0,5,0
+"2015","Big East","Big Ten",9,3,12,0.25
+"2015","Big East","Missouri Valley",5,0,5,0
+"2015","Big East","Northeast",5,0,5,0
+"2015","Big East","Ohio Valley",5,0,5,0
+"2015","Big East","Patriot League",5,0,5,0
+"2015","Big East","Southeastern",8,1,9,0.111111111111111
+"2015","Big East","West Coast",5,0,5,0
+"2015","Big Sky","Big West",6,2,8,0.25
+"2015","Big Sky","MEAC",5,0,5,0
+"2015","Big Sky","Mountain West",12,2,14,0.142857142857143
+"2015","Big Sky","Pac 12",9,1,10,0.1
+"2015","Big Sky","Summit League",11,1,12,0.0833333333333333
+"2015","Big Sky","West Coast",9,2,11,0.181818181818182
+"2015","Big Sky","Western Athletic",15,2,17,0.117647058823529
+"2015","Big South","ACC",8,2,10,0.2
+"2015","Big South","Big Ten",4,1,5,0.2
+"2015","Big South","Colonial Athletic",7,3,10,0.3
+"2015","Big South","MEAC",6,2,8,0.25
+"2015","Big South","Ohio Valley",6,0,6,0
+"2015","Big South","Southeastern",6,0,6,0
+"2015","Big South","Southern",13,1,14,0.0714285714285714
+"2015","Big Ten","ACC",17,4,21,0.19047619047619
+"2015","Big Ten","Atlantic 10",4,2,6,0.333333333333333
+"2015","Big Ten","Atlantic Sun",4,2,6,0.333333333333333
+"2015","Big Ten","Big 12",7,1,8,0.125
+"2015","Big Ten","Big East",11,1,12,0.0833333333333333
+"2015","Big Ten","Big South",5,0,5,0
+"2015","Big Ten","Horizon League",10,0,10,0
+"2015","Big Ten","MAAC",4,1,5,0.2
+"2015","Big Ten","MEAC",7,1,8,0.125
+"2015","Big Ten","Mid-American",8,2,10,0.2
+"2015","Big Ten","Northeast",5,2,7,0.285714285714286
+"2015","Big Ten","Pac 12",5,1,6,0.166666666666667
+"2015","Big Ten","Patriot League",5,0,5,0
+"2015","Big Ten","Southeastern",4,1,5,0.2
+"2015","Big Ten","Southern",6,1,7,0.142857142857143
+"2015","Big Ten","Southland",7,0,7,0
+"2015","Big Ten","SWAC",8,0,8,0
+"2015","Big West","Big Sky",8,0,8,0
+"2015","Big West","Mountain West",12,2,14,0.142857142857143
+"2015","Big West","Pac 12",16,0,16,0
+"2015","Big West","Southland",6,0,6,0
+"2015","Big West","West Coast",14,1,15,0.0666666666666667
+"2015","Big West","Western Athletic",8,1,9,0.111111111111111
+"2015","Colonial Athletic","ACC",8,0,8,0
+"2015","Colonial Athletic","American Athletic",6,0,6,0
+"2015","Colonial Athletic","Atlantic 10",10,2,12,0.166666666666667
+"2015","Colonial Athletic","Big South",7,3,10,0.3
+"2015","Colonial Athletic","Conference USA",6,1,7,0.142857142857143
+"2015","Colonial Athletic","MAAC",5,0,5,0
+"2015","Colonial Athletic","MEAC",8,2,10,0.2
+"2015","Colonial Athletic","Mid-American",3,2,5,0.4
+"2015","Colonial Athletic","Northeast",8,0,8,0
+"2015","Colonial Athletic","Patriot League",4,1,5,0.2
+"2015","Colonial Athletic","Southeastern",5,0,5,0
+"2015","Colonial Athletic","Southern",2,4,6,0.666666666666667
+"2015","Conference USA","ACC",9,0,9,0
+"2015","Conference USA","American Athletic",5,1,6,0.166666666666667
+"2015","Conference USA","Atlantic 10",5,2,7,0.285714285714286
+"2015","Conference USA","Atlantic Sun",5,1,6,0.166666666666667
+"2015","Conference USA","Big 12",6,0,6,0
+"2015","Conference USA","Colonial Athletic",6,1,7,0.142857142857143
+"2015","Conference USA","MEAC",5,1,6,0.166666666666667
+"2015","Conference USA","Ohio Valley",9,2,11,0.181818181818182
+"2015","Conference USA","Pac 12",7,0,7,0
+"2015","Conference USA","Southeastern",9,2,11,0.181818181818182
+"2015","Conference USA","Southland",8,1,9,0.111111111111111
+"2015","Conference USA","Sun Belt",8,3,11,0.272727272727273
+"2015","Conference USA","SWAC",8,1,9,0.111111111111111
+"2015","Conference USA","Western Athletic",5,0,5,0
+"2015","Horizon League","ACC",4,1,5,0.2
+"2015","Horizon League","American Athletic",3,2,5,0.4
+"2015","Horizon League","Atlantic Sun",13,5,18,0.277777777777778
+"2015","Horizon League","Big Ten",10,0,10,0
+"2015","Horizon League","Mid-American",14,1,15,0.0666666666666667
+"2015","Horizon League","Missouri Valley",8,1,9,0.111111111111111
+"2015","Horizon League","Ohio Valley",9,3,12,0.25
+"2015","Horizon League","Southern",5,0,5,0
+"2015","Horizon League","Summit League",8,0,8,0
+"2015","Horizon League","Sun Belt",4,2,6,0.333333333333333
+"2015","Horizon League","Western Athletic",3,2,5,0.4
+"2015","Ivy League","America East",14,3,17,0.176470588235294
+"2015","Ivy League","Atlantic 10",5,2,7,0.285714285714286
+"2015","Ivy League","MAAC",10,1,11,0.0909090909090909
+"2015","Ivy League","Northeast",10,2,12,0.166666666666667
+"2015","Ivy League","Patriot League",15,0,15,0
+"2015","Ivy League","Southeastern",5,0,5,0
+"2015","MAAC","ACC",6,1,7,0.142857142857143
+"2015","MAAC","America East",9,5,14,0.357142857142857
+"2015","MAAC","Atlantic 10",15,1,16,0.0625
+"2015","MAAC","Big Ten",4,1,5,0.2
+"2015","MAAC","Colonial Athletic",5,0,5,0
+"2015","MAAC","Ivy League",10,1,11,0.0909090909090909
+"2015","MAAC","MEAC",4,1,5,0.2
+"2015","MAAC","Northeast",7,0,7,0
+"2015","MAAC","Patriot League",10,2,12,0.166666666666667
+"2015","MEAC","ACC",11,1,12,0.0833333333333333
+"2015","MEAC","American Athletic",8,1,9,0.111111111111111
+"2015","MEAC","Atlantic 10",7,3,10,0.3
+"2015","MEAC","Atlantic Sun",15,0,15,0
+"2015","MEAC","Big Sky",5,0,5,0
+"2015","MEAC","Big South",6,2,8,0.25
+"2015","MEAC","Big Ten",8,0,8,0
+"2015","MEAC","Colonial Athletic",10,0,10,0
+"2015","MEAC","Conference USA",6,0,6,0
+"2015","MEAC","MAAC",4,1,5,0.2
+"2015","MEAC","Mid-American",5,0,5,0
+"2015","MEAC","Northeast",4,2,6,0.333333333333333
+"2015","MEAC","Ohio Valley",8,1,9,0.111111111111111
+"2015","MEAC","Southeastern",5,0,5,0
+"2015","MEAC","SWAC",5,0,5,0
+"2015","Mid-American","America East",5,0,5,0
+"2015","Mid-American","Atlantic 10",7,0,7,0
+"2015","Mid-American","Big Ten",10,0,10,0
+"2015","Mid-American","Colonial Athletic",4,1,5,0.2
+"2015","Mid-American","Horizon League",14,1,15,0.0666666666666667
+"2015","Mid-American","MEAC",4,1,5,0.2
+"2015","Mid-American","Missouri Valley",9,0,9,0
+"2015","Mid-American","Ohio Valley",5,0,5,0
+"2015","Mid-American","Summit League",6,0,6,0
+"2015","Mid-American","SWAC",8,0,8,0
+"2015","Mid-American","Western Athletic",5,1,6,0.166666666666667
+"2015","Missouri Valley","American Athletic",6,0,6,0
+"2015","Missouri Valley","Atlantic 10",9,0,9,0
+"2015","Missouri Valley","Big 12",4,1,5,0.2
+"2015","Missouri Valley","Big East",3,2,5,0.4
+"2015","Missouri Valley","Horizon League",8,1,9,0.111111111111111
+"2015","Missouri Valley","Mid-American",7,2,9,0.222222222222222
+"2015","Missouri Valley","Ohio Valley",12,3,15,0.2
+"2015","Missouri Valley","Summit League",6,2,8,0.25
+"2015","Mountain West","American Athletic",4,1,5,0.2
+"2015","Mountain West","Big Sky",13,1,14,0.0714285714285714
+"2015","Mountain West","Big West",12,2,14,0.142857142857143
+"2015","Mountain West","Pac 12",15,2,17,0.117647058823529
+"2015","Mountain West","West Coast",11,4,15,0.266666666666667
+"2015","Mountain West","Western Athletic",9,1,10,0.1
+"2015","Northeast","ACC",6,0,6,0
+"2015","Northeast","America East",11,4,15,0.266666666666667
+"2015","Northeast","American Athletic",6,0,6,0
+"2015","Northeast","Atlantic 10",4,1,5,0.2
+"2015","Northeast","Big East",5,0,5,0
+"2015","Northeast","Big Ten",7,0,7,0
+"2015","Northeast","Colonial Athletic",7,1,8,0.125
+"2015","Northeast","Ivy League",11,1,12,0.0833333333333333
+"2015","Northeast","MAAC",6,1,7,0.142857142857143
+"2015","Northeast","MEAC",5,1,6,0.166666666666667
+"2015","Northeast","Patriot League",11,4,15,0.266666666666667
+"2015","Ohio Valley","American Athletic",5,0,5,0
+"2015","Ohio Valley","Atlantic Sun",7,4,11,0.363636363636364
+"2015","Ohio Valley","Big East",5,0,5,0
+"2015","Ohio Valley","Big South",4,2,6,0.333333333333333
+"2015","Ohio Valley","Conference USA",9,2,11,0.181818181818182
+"2015","Ohio Valley","Horizon League",10,2,12,0.166666666666667
+"2015","Ohio Valley","MEAC",9,0,9,0
+"2015","Ohio Valley","Mid-American",3,2,5,0.4
+"2015","Ohio Valley","Missouri Valley",13,2,15,0.133333333333333
+"2015","Ohio Valley","Southeastern",9,0,9,0
+"2015","Ohio Valley","Southern",5,0,5,0
+"2015","Ohio Valley","Southland",6,0,6,0
+"2015","Ohio Valley","SWAC",5,1,6,0.166666666666667
+"2015","Ohio Valley","West Coast",5,0,5,0
+"2015","Pac 12","Big 12",7,1,8,0.125
+"2015","Pac 12","Big Sky",8,2,10,0.2
+"2015","Pac 12","Big Ten",5,1,6,0.166666666666667
+"2015","Pac 12","Big West",13,3,16,0.1875
+"2015","Pac 12","Conference USA",5,2,7,0.285714285714286
+"2015","Pac 12","Mountain West",13,4,17,0.235294117647059
+"2015","Pac 12","Southeastern",10,0,10,0
+"2015","Pac 12","SWAC",6,0,6,0
+"2015","Pac 12","West Coast",10,4,14,0.285714285714286
+"2015","Pac 12","Western Athletic",5,0,5,0
+"2015","Patriot League","ACC",7,0,7,0
+"2015","Patriot League","America East",14,2,16,0.125
+"2015","Patriot League","Big East",4,1,5,0.2
+"2015","Patriot League","Big Ten",5,0,5,0
+"2015","Patriot League","Colonial Athletic",4,1,5,0.2
+"2015","Patriot League","Ivy League",12,3,15,0.2
+"2015","Patriot League","MAAC",10,2,12,0.166666666666667
+"2015","Patriot League","Northeast",14,1,15,0.0666666666666667
+"2015","Southeastern","ACC",13,2,15,0.133333333333333
+"2015","Southeastern","American Athletic",5,1,6,0.166666666666667
+"2015","Southeastern","Atlantic 10",6,2,8,0.25
+"2015","Southeastern","Atlantic Sun",7,0,7,0
+"2015","Southeastern","Big 12",16,5,21,0.238095238095238
+"2015","Southeastern","Big East",5,4,9,0.444444444444444
+"2015","Southeastern","Big South",4,2,6,0.333333333333333
+"2015","Southeastern","Big Ten",4,1,5,0.2
+"2015","Southeastern","Colonial Athletic",4,1,5,0.2
+"2015","Southeastern","Conference USA",10,1,11,0.0909090909090909
+"2015","Southeastern","Ivy League",3,2,5,0.4
+"2015","Southeastern","MEAC",5,0,5,0
+"2015","Southeastern","Ohio Valley",6,3,9,0.333333333333333
+"2015","Southeastern","Pac 12",7,3,10,0.3
+"2015","Southeastern","Southern",6,2,8,0.25
+"2015","Southeastern","Southland",6,1,7,0.142857142857143
+"2015","Southeastern","Sun Belt",4,3,7,0.428571428571429
+"2015","Southeastern","SWAC",5,1,6,0.166666666666667
+"2015","Southern","ACC",8,1,9,0.111111111111111
+"2015","Southern","Atlantic Sun",6,0,6,0
+"2015","Southern","Big South",8,6,14,0.428571428571429
+"2015","Southern","Big Ten",7,0,7,0
+"2015","Southern","Colonial Athletic",6,0,6,0
+"2015","Southern","Horizon League",5,0,5,0
+"2015","Southern","Ohio Valley",2,3,5,0.6
+"2015","Southern","Southeastern",8,0,8,0
+"2015","Southland","American Athletic",9,0,9,0
+"2015","Southland","Big 12",9,0,9,0
+"2015","Southland","Big Ten",7,0,7,0
+"2015","Southland","Big West",5,1,6,0.166666666666667
+"2015","Southland","Conference USA",9,0,9,0
+"2015","Southland","Ohio Valley",5,1,6,0.166666666666667
+"2015","Southland","Southeastern",6,1,7,0.142857142857143
+"2015","Southland","Summit League",5,0,5,0
+"2015","Southland","Sun Belt",8,3,11,0.272727272727273
+"2015","Southland","SWAC",5,0,5,0
+"2015","Southland","Western Athletic",5,0,5,0
+"2015","Summit League","Big Sky",8,4,12,0.333333333333333
+"2015","Summit League","Horizon League",6,2,8,0.25
+"2015","Summit League","Mid-American",4,2,6,0.333333333333333
+"2015","Summit League","Missouri Valley",7,1,8,0.125
+"2015","Summit League","Southland",5,0,5,0
+"2015","Summit League","Western Athletic",3,2,5,0.4
+"2015","Sun Belt","Conference USA",9,2,11,0.181818181818182
+"2015","Sun Belt","Horizon League",5,1,6,0.166666666666667
+"2015","Sun Belt","Southeastern",6,1,7,0.142857142857143
+"2015","Sun Belt","Southland",11,0,11,0
+"2015","SWAC","American Athletic",7,1,8,0.125
+"2015","SWAC","Big 12",12,1,13,0.0769230769230769
+"2015","SWAC","Big Ten",7,1,8,0.125
+"2015","SWAC","Conference USA",7,2,9,0.222222222222222
+"2015","SWAC","MEAC",4,1,5,0.2
+"2015","SWAC","Mid-American",8,0,8,0
+"2015","SWAC","Ohio Valley",5,1,6,0.166666666666667
+"2015","SWAC","Pac 12",6,0,6,0
+"2015","SWAC","Southeastern",6,0,6,0
+"2015","SWAC","Southland",4,1,5,0.2
+"2015","West Coast","Big East",3,2,5,0.4
+"2015","West Coast","Big Sky",11,0,11,0
+"2015","West Coast","Big West",13,2,15,0.133333333333333
+"2015","West Coast","Mountain West",15,0,15,0
+"2015","West Coast","Ohio Valley",4,1,5,0.2
+"2015","West Coast","Pac 12",14,0,14,0
+"2015","Western Athletic","Big Sky",11,6,17,0.352941176470588
+"2015","Western Athletic","Big West",5,4,9,0.444444444444444
+"2015","Western Athletic","Conference USA",3,2,5,0.4
+"2015","Western Athletic","Horizon League",5,0,5,0
+"2015","Western Athletic","Mid-American",6,0,6,0
+"2015","Western Athletic","Mountain West",9,1,10,0.1
+"2015","Western Athletic","Pac 12",4,1,5,0.2
+"2015","Western Athletic","Southland",4,1,5,0.2
+"2015","Western Athletic","Summit League",5,0,5,0
+"2016","ACC","America East",5,2,7,0.285714285714286
+"2016","ACC","American Athletic",4,1,5,0.2
+"2016","ACC","Atlantic 10",13,3,16,0.1875
+"2016","ACC","Big 12",3,2,5,0.4
+"2016","ACC","Big East",9,0,9,0
+"2016","ACC","Big South",4,3,7,0.428571428571429
+"2016","ACC","Big Ten",17,3,20,0.15
+"2016","ACC","Colonial Athletic",7,2,9,0.222222222222222
+"2016","ACC","Conference USA",5,1,6,0.166666666666667
+"2016","ACC","Horizon League",4,1,5,0.2
+"2016","ACC","Ivy League",5,1,6,0.166666666666667
+"2016","ACC","Northeast",5,0,5,0
+"2016","ACC","Pac 12",5,1,6,0.166666666666667
+"2016","ACC","Patriot League",5,1,6,0.166666666666667
+"2016","ACC","Southeastern",16,3,19,0.157894736842105
+"2016","ACC","Southern",9,1,10,0.1
+"2016","ACC","Southland",4,1,5,0.2
+"2016","ACC","SWAC",5,0,5,0
+"2016","America East","ACC",7,0,7,0
+"2016","America East","American Athletic",5,0,5,0
+"2016","America East","Atlantic 10",5,0,5,0
+"2016","America East","Atlantic Sun",5,0,5,0
+"2016","America East","Ivy League",13,3,16,0.1875
+"2016","America East","MAAC",7,6,13,0.461538461538462
+"2016","America East","Northeast",12,5,17,0.294117647058824
+"2016","America East","Patriot League",18,2,20,0.1
+"2016","American Athletic","ACC",5,0,5,0
+"2016","American Athletic","America East",4,1,5,0.2
+"2016","American Athletic","Atlantic 10",8,1,9,0.111111111111111
+"2016","American Athletic","Atlantic Sun",3,2,5,0.4
+"2016","American Athletic","Big 12",4,1,5,0.2
+"2016","American Athletic","Big East",6,0,6,0
+"2016","American Athletic","Big Ten",6,2,8,0.25
+"2016","American Athletic","Colonial Athletic",3,2,5,0.4
+"2016","American Athletic","Conference USA",6,1,7,0.142857142857143
+"2016","American Athletic","MEAC",9,1,10,0.1
+"2016","American Athletic","Pac 12",4,1,5,0.2
+"2016","American Athletic","Southeastern",7,0,7,0
+"2016","American Athletic","Southland",7,1,8,0.125
+"2016","American Athletic","Sun Belt",6,0,6,0
+"2016","American Athletic","SWAC",6,2,8,0.25
+"2016","Atlantic 10","ACC",12,4,16,0.25
+"2016","Atlantic 10","America East",4,1,5,0.2
+"2016","Atlantic 10","American Athletic",8,1,9,0.111111111111111
+"2016","Atlantic 10","Atlantic Sun",3,3,6,0.5
+"2016","Atlantic 10","Big 12",4,1,5,0.2
+"2016","Atlantic 10","Big East",9,0,9,0
+"2016","Atlantic 10","Big South",6,0,6,0
+"2016","Atlantic 10","Big Ten",6,1,7,0.142857142857143
+"2016","Atlantic 10","Colonial Athletic",8,2,10,0.2
+"2016","Atlantic 10","Conference USA",6,1,7,0.142857142857143
+"2016","Atlantic 10","Ivy League",4,3,7,0.428571428571429
+"2016","Atlantic 10","MAAC",9,2,11,0.181818181818182
+"2016","Atlantic 10","MEAC",5,1,6,0.166666666666667
+"2016","Atlantic 10","Mid-American",2,3,5,0.6
+"2016","Atlantic 10","Missouri Valley",5,1,6,0.166666666666667
+"2016","Atlantic 10","Northeast",6,2,8,0.25
+"2016","Atlantic 10","Ohio Valley",4,1,5,0.2
+"2016","Atlantic 10","Patriot League",9,1,10,0.1
+"2016","Atlantic 10","Southeastern",6,2,8,0.25
+"2016","Atlantic 10","Southern",4,1,5,0.2
+"2016","Atlantic Sun","America East",5,0,5,0
+"2016","Atlantic Sun","American Athletic",4,1,5,0.2
+"2016","Atlantic Sun","Atlantic 10",6,0,6,0
+"2016","Atlantic Sun","Conference USA",4,2,6,0.333333333333333
+"2016","Atlantic Sun","MEAC",6,2,8,0.25
+"2016","Atlantic Sun","Mid-American",6,1,7,0.142857142857143
+"2016","Atlantic Sun","Ohio Valley",11,0,11,0
+"2016","Atlantic Sun","Patriot League",3,2,5,0.4
+"2016","Atlantic Sun","Southeastern",10,0,10,0
+"2016","Atlantic Sun","Southern",7,0,7,0
+"2016","Atlantic Sun","Summit League",5,1,6,0.166666666666667
+"2016","Big 12","ACC",4,1,5,0.2
+"2016","Big 12","American Athletic",3,2,5,0.4
+"2016","Big 12","Atlantic 10",5,0,5,0
+"2016","Big 12","Big Ten",6,1,7,0.142857142857143
+"2016","Big 12","Big West",4,1,5,0.2
+"2016","Big 12","MEAC",7,0,7,0
+"2016","Big 12","Pac 12",9,1,10,0.1
+"2016","Big 12","Southeastern",14,5,19,0.263157894736842
+"2016","Big 12","Southland",9,1,10,0.1
+"2016","Big 12","Summit League",4,1,5,0.2
+"2016","Big 12","Sun Belt",3,2,5,0.4
+"2016","Big 12","SWAC",7,0,7,0
+"2016","Big East","ACC",7,2,9,0.222222222222222
+"2016","Big East","American Athletic",5,1,6,0.166666666666667
+"2016","Big East","Atlantic 10",7,2,9,0.222222222222222
+"2016","Big East","Big Ten",12,5,17,0.294117647058824
+"2016","Big East","Ivy League",4,1,5,0.2
+"2016","Big East","Missouri Valley",7,0,7,0
+"2016","Big East","Northeast",5,1,6,0.166666666666667
+"2016","Big East","Pac 12",4,2,6,0.333333333333333
+"2016","Big East","Southeastern",7,3,10,0.3
+"2016","Big Sky","Big West",8,1,9,0.111111111111111
+"2016","Big Sky","Mountain West",12,2,14,0.142857142857143
+"2016","Big Sky","Ohio Valley",4,1,5,0.2
+"2016","Big Sky","Pac 12",11,1,12,0.0833333333333333
+"2016","Big Sky","Summit League",13,2,15,0.133333333333333
+"2016","Big Sky","West Coast",11,2,13,0.153846153846154
+"2016","Big Sky","Western Athletic",13,1,14,0.0714285714285714
+"2016","Big South","ACC",7,0,7,0
+"2016","Big South","Atlantic 10",6,0,6,0
+"2016","Big South","Colonial Athletic",8,2,10,0.2
+"2016","Big South","MEAC",5,1,6,0.166666666666667
+"2016","Big South","Southeastern",10,0,10,0
+"2016","Big South","Southern",15,2,17,0.117647058823529
+"2016","Big Ten","ACC",18,2,20,0.1
+"2016","Big Ten","American Athletic",8,0,8,0
+"2016","Big Ten","Atlantic 10",5,2,7,0.285714285714286
+"2016","Big Ten","Big 12",6,1,7,0.142857142857143
+"2016","Big Ten","Big East",17,0,17,0
+"2016","Big Ten","Conference USA",5,1,6,0.166666666666667
+"2016","Big Ten","Horizon League",8,1,9,0.111111111111111
+"2016","Big Ten","MAAC",4,1,5,0.2
+"2016","Big Ten","MEAC",9,0,9,0
+"2016","Big Ten","Northeast",6,1,7,0.142857142857143
+"2016","Big Ten","Ohio Valley",4,1,5,0.2
+"2016","Big Ten","Southeastern",6,1,7,0.142857142857143
+"2016","Big Ten","Southern",3,3,6,0.5
+"2016","Big Ten","Southland",7,1,8,0.125
+"2016","Big Ten","Summit League",6,3,9,0.333333333333333
+"2016","Big Ten","SWAC",7,1,8,0.125
+"2016","Big Ten","Western Athletic",4,1,5,0.2
+"2016","Big West","Big 12",5,0,5,0
+"2016","Big West","Big Sky",7,2,9,0.222222222222222
+"2016","Big West","MEAC",5,0,5,0
+"2016","Big West","Mountain West",6,5,11,0.454545454545455
+"2016","Big West","Pac 12",14,1,15,0.0666666666666667
+"2016","Big West","Southland",6,0,6,0
+"2016","Big West","Summit League",6,0,6,0
+"2016","Big West","West Coast",21,2,23,0.0869565217391304
+"2016","Big West","Western Athletic",5,2,7,0.285714285714286
+"2016","Colonial Athletic","ACC",7,2,9,0.222222222222222
+"2016","Colonial Athletic","American Athletic",5,0,5,0
+"2016","Colonial Athletic","Atlantic 10",7,3,10,0.3
+"2016","Colonial Athletic","Big South",8,2,10,0.2
+"2016","Colonial Athletic","Conference USA",6,2,8,0.25
+"2016","Colonial Athletic","MAAC",6,0,6,0
+"2016","Colonial Athletic","MEAC",6,0,6,0
+"2016","Colonial Athletic","Mid-American",6,0,6,0
+"2016","Colonial Athletic","Northeast",6,0,6,0
+"2016","Conference USA","ACC",6,0,6,0
+"2016","Conference USA","American Athletic",7,0,7,0
+"2016","Conference USA","Atlantic 10",6,1,7,0.142857142857143
+"2016","Conference USA","Atlantic Sun",6,0,6,0
+"2016","Conference USA","Big Ten",6,0,6,0
+"2016","Conference USA","Colonial Athletic",8,0,8,0
+"2016","Conference USA","MEAC",9,1,10,0.1
+"2016","Conference USA","Mid-American",3,4,7,0.571428571428571
+"2016","Conference USA","Missouri Valley",8,0,8,0
+"2016","Conference USA","Ohio Valley",8,5,13,0.384615384615385
+"2016","Conference USA","Southeastern",5,1,6,0.166666666666667
+"2016","Conference USA","Southland",5,4,9,0.444444444444444
+"2016","Conference USA","Sun Belt",14,4,18,0.222222222222222
+"2016","Conference USA","SWAC",9,1,10,0.1
+"2016","Conference USA","Western Athletic",6,0,6,0
+"2016","Horizon League","ACC",5,0,5,0
+"2016","Horizon League","Big Ten",9,0,9,0
+"2016","Horizon League","Mid-American",17,5,22,0.227272727272727
+"2016","Horizon League","Missouri Valley",6,1,7,0.142857142857143
+"2016","Horizon League","Ohio Valley",10,2,12,0.166666666666667
+"2016","Horizon League","Summit League",7,0,7,0
+"2016","Ivy League","ACC",6,0,6,0
+"2016","Ivy League","America East",16,0,16,0
+"2016","Ivy League","Atlantic 10",6,1,7,0.142857142857143
+"2016","Ivy League","Big East",5,0,5,0
+"2016","Ivy League","MAAC",12,3,15,0.2
+"2016","Ivy League","MEAC",7,1,8,0.125
+"2016","Ivy League","Northeast",11,1,12,0.0833333333333333
+"2016","Ivy League","Patriot League",8,4,12,0.333333333333333
+"2016","MAAC","America East",12,1,13,0.0769230769230769
+"2016","MAAC","Atlantic 10",10,1,11,0.0909090909090909
+"2016","MAAC","Big Ten",5,0,5,0
+"2016","MAAC","Colonial Athletic",4,2,6,0.333333333333333
+"2016","MAAC","Ivy League",11,4,15,0.266666666666667
+"2016","MAAC","MEAC",3,2,5,0.4
+"2016","MAAC","Northeast",7,3,10,0.3
+"2016","MAAC","Pac 12",4,1,5,0.2
+"2016","MAAC","Patriot League",8,5,13,0.384615384615385
+"2016","MEAC","American Athletic",10,0,10,0
+"2016","MEAC","Atlantic 10",6,0,6,0
+"2016","MEAC","Atlantic Sun",8,0,8,0
+"2016","MEAC","Big 12",7,0,7,0
+"2016","MEAC","Big South",3,3,6,0.5
+"2016","MEAC","Big Ten",9,0,9,0
+"2016","MEAC","Big West",5,0,5,0
+"2016","MEAC","Colonial Athletic",5,1,6,0.166666666666667
+"2016","MEAC","Conference USA",9,1,10,0.1
+"2016","MEAC","Ivy League",8,0,8,0
+"2016","MEAC","MAAC",5,0,5,0
+"2016","MEAC","Mid-American",11,1,12,0.0833333333333333
+"2016","MEAC","Ohio Valley",5,0,5,0
+"2016","MEAC","Pac 12",5,0,5,0
+"2016","MEAC","Southeastern",6,0,6,0
+"2016","MEAC","Southern",4,1,5,0.2
+"2016","MEAC","Southland",5,1,6,0.166666666666667
+"2016","MEAC","SWAC",5,1,6,0.166666666666667
+"2016","Mid-American","Atlantic 10",5,0,5,0
+"2016","Mid-American","Atlantic Sun",5,2,7,0.285714285714286
+"2016","Mid-American","Colonial Athletic",4,2,6,0.333333333333333
+"2016","Mid-American","Conference USA",7,0,7,0
+"2016","Mid-American","Horizon League",20,2,22,0.0909090909090909
+"2016","Mid-American","MEAC",11,1,12,0.0833333333333333
+"2016","Mid-American","Missouri Valley",5,1,6,0.166666666666667
+"2016","Mid-American","Ohio Valley",5,1,6,0.166666666666667
+"2016","Mid-American","Summit League",6,0,6,0
+"2016","Mid-American","SWAC",4,1,5,0.2
+"2016","Missouri Valley","Atlantic 10",4,2,6,0.333333333333333
+"2016","Missouri Valley","Big East",6,1,7,0.142857142857143
+"2016","Missouri Valley","Conference USA",7,1,8,0.125
+"2016","Missouri Valley","Horizon League",7,0,7,0
+"2016","Missouri Valley","Mid-American",4,2,6,0.333333333333333
+"2016","Missouri Valley","Mountain West",9,3,12,0.25
+"2016","Missouri Valley","Ohio Valley",8,3,11,0.272727272727273
+"2016","Missouri Valley","Southeastern",5,0,5,0
+"2016","Missouri Valley","Southland",4,1,5,0.2
+"2016","Missouri Valley","Summit League",3,3,6,0.5
+"2016","Missouri Valley","West Coast",4,1,5,0.2
+"2016","Mountain West","Big Sky",13,1,14,0.0714285714285714
+"2016","Mountain West","Big West",9,2,11,0.181818181818182
+"2016","Mountain West","Missouri Valley",11,1,12,0.0833333333333333
+"2016","Mountain West","Pac 12",15,2,17,0.117647058823529
+"2016","Mountain West","Summit League",1,5,6,0.833333333333333
+"2016","Mountain West","West Coast",13,1,14,0.0714285714285714
+"2016","Mountain West","Western Athletic",7,3,10,0.3
+"2016","Northeast","ACC",5,0,5,0
+"2016","Northeast","America East",14,3,17,0.176470588235294
+"2016","Northeast","Atlantic 10",8,0,8,0
+"2016","Northeast","Big East",6,0,6,0
+"2016","Northeast","Big Ten",7,0,7,0
+"2016","Northeast","Colonial Athletic",5,1,6,0.166666666666667
+"2016","Northeast","Ivy League",11,1,12,0.0833333333333333
+"2016","Northeast","MAAC",9,1,10,0.1
+"2016","Northeast","Patriot League",12,4,16,0.25
+"2016","Ohio Valley","Atlantic 10",4,1,5,0.2
+"2016","Ohio Valley","Atlantic Sun",11,0,11,0
+"2016","Ohio Valley","Big Sky",3,2,5,0.4
+"2016","Ohio Valley","Big Ten",5,0,5,0
+"2016","Ohio Valley","Conference USA",12,1,13,0.0769230769230769
+"2016","Ohio Valley","Horizon League",9,3,12,0.25
+"2016","Ohio Valley","MEAC",4,1,5,0.2
+"2016","Ohio Valley","Mid-American",5,1,6,0.166666666666667
+"2016","Ohio Valley","Missouri Valley",8,3,11,0.272727272727273
+"2016","Ohio Valley","Southeastern",8,0,8,0
+"2016","Ohio Valley","Southern",8,1,9,0.111111111111111
+"2016","Ohio Valley","Summit League",7,0,7,0
+"2016","Ohio Valley","SWAC",8,1,9,0.111111111111111
+"2016","Ohio Valley","Western Athletic",4,2,6,0.333333333333333
+"2016","Pac 12","ACC",5,1,6,0.166666666666667
+"2016","Pac 12","American Athletic",5,0,5,0
+"2016","Pac 12","Big 12",9,1,10,0.1
+"2016","Pac 12","Big East",4,2,6,0.333333333333333
+"2016","Pac 12","Big Sky",9,3,12,0.25
+"2016","Pac 12","Big West",13,2,15,0.133333333333333
+"2016","Pac 12","MAAC",5,0,5,0
+"2016","Pac 12","MEAC",5,0,5,0
+"2016","Pac 12","Mountain West",11,6,17,0.352941176470588
+"2016","Pac 12","Southeastern",3,4,7,0.571428571428571
+"2016","Pac 12","Southland",6,1,7,0.142857142857143
+"2016","Pac 12","West Coast",9,5,14,0.357142857142857
+"2016","Patriot League","ACC",6,0,6,0
+"2016","Patriot League","America East",15,5,20,0.25
+"2016","Patriot League","Atlantic 10",10,0,10,0
+"2016","Patriot League","Atlantic Sun",4,1,5,0.2
+"2016","Patriot League","Ivy League",10,2,12,0.166666666666667
+"2016","Patriot League","MAAC",11,2,13,0.153846153846154
+"2016","Patriot League","Northeast",13,3,16,0.1875
+"2016","Southeastern","ACC",13,6,19,0.315789473684211
+"2016","Southeastern","American Athletic",6,1,7,0.142857142857143
+"2016","Southeastern","Atlantic 10",7,1,8,0.125
+"2016","Southeastern","Atlantic Sun",8,2,10,0.2
+"2016","Southeastern","Big 12",17,2,19,0.105263157894737
+"2016","Southeastern","Big East",10,0,10,0
+"2016","Southeastern","Big South",5,5,10,0.5
+"2016","Southeastern","Big Ten",7,0,7,0
+"2016","Southeastern","Conference USA",5,1,6,0.166666666666667
+"2016","Southeastern","MEAC",6,0,6,0
+"2016","Southeastern","Missouri Valley",3,2,5,0.4
+"2016","Southeastern","Ohio Valley",5,3,8,0.375
+"2016","Southeastern","Pac 12",7,0,7,0
+"2016","Southeastern","Southern",6,1,7,0.142857142857143
+"2016","Southeastern","Southland",6,0,6,0
+"2016","Southeastern","Sun Belt",2,5,7,0.714285714285714
+"2016","Southern","ACC",9,1,10,0.1
+"2016","Southern","Atlantic 10",5,0,5,0
+"2016","Southern","Atlantic Sun",6,1,7,0.142857142857143
+"2016","Southern","Big South",13,4,17,0.235294117647059
+"2016","Southern","Big Ten",6,0,6,0
+"2016","Southern","MEAC",5,0,5,0
+"2016","Southern","Ohio Valley",7,2,9,0.222222222222222
+"2016","Southern","Southeastern",7,0,7,0
+"2016","Southern","Sun Belt",5,1,6,0.166666666666667
+"2016","Southland","ACC",5,0,5,0
+"2016","Southland","American Athletic",8,0,8,0
+"2016","Southland","Big 12",10,0,10,0
+"2016","Southland","Big Ten",8,0,8,0
+"2016","Southland","Big West",5,1,6,0.166666666666667
+"2016","Southland","Conference USA",8,1,9,0.111111111111111
+"2016","Southland","MEAC",4,2,6,0.333333333333333
+"2016","Southland","Missouri Valley",5,0,5,0
+"2016","Southland","Pac 12",7,0,7,0
+"2016","Southland","Southeastern",6,0,6,0
+"2016","Southland","Sun Belt",9,0,9,0
+"2016","Summit League","Atlantic Sun",5,1,6,0.166666666666667
+"2016","Summit League","Big 12",5,0,5,0
+"2016","Summit League","Big Sky",11,4,15,0.266666666666667
+"2016","Summit League","Big Ten",9,0,9,0
+"2016","Summit League","Big West",5,1,6,0.166666666666667
+"2016","Summit League","Horizon League",6,1,7,0.142857142857143
+"2016","Summit League","Mid-American",5,1,6,0.166666666666667
+"2016","Summit League","Missouri Valley",6,0,6,0
+"2016","Summit League","Mountain West",6,0,6,0
+"2016","Summit League","Ohio Valley",7,0,7,0
+"2016","Summit League","Western Athletic",8,1,9,0.111111111111111
+"2016","Sun Belt","American Athletic",5,1,6,0.166666666666667
+"2016","Sun Belt","Big 12",5,0,5,0
+"2016","Sun Belt","Conference USA",16,2,18,0.111111111111111
+"2016","Sun Belt","Southeastern",7,0,7,0
+"2016","Sun Belt","Southern",4,2,6,0.333333333333333
+"2016","Sun Belt","Southland",9,0,9,0
+"2016","SWAC","ACC",5,0,5,0
+"2016","SWAC","American Athletic",7,1,8,0.125
+"2016","SWAC","Big 12",7,0,7,0
+"2016","SWAC","Big Ten",8,0,8,0
+"2016","SWAC","Conference USA",8,2,10,0.2
+"2016","SWAC","MEAC",5,1,6,0.166666666666667
+"2016","SWAC","Mid-American",5,0,5,0
+"2016","SWAC","Ohio Valley",8,1,9,0.111111111111111
+"2016","SWAC","Western Athletic",6,1,7,0.142857142857143
+"2016","West Coast","Big Sky",10,3,13,0.230769230769231
+"2016","West Coast","Big West",18,5,23,0.217391304347826
+"2016","West Coast","Missouri Valley",5,0,5,0
+"2016","West Coast","Mountain West",11,3,14,0.214285714285714
+"2016","West Coast","Pac 12",13,1,14,0.0714285714285714
+"2016","Western Athletic","Big Sky",10,4,14,0.285714285714286
+"2016","Western Athletic","Big Ten",5,0,5,0
+"2016","Western Athletic","Big West",7,0,7,0
+"2016","Western Athletic","Conference USA",4,2,6,0.333333333333333
+"2016","Western Athletic","Mountain West",10,0,10,0
+"2016","Western Athletic","Ohio Valley",5,1,6,0.166666666666667
+"2016","Western Athletic","Summit League",6,3,9,0.333333333333333
+"2016","Western Athletic","SWAC",6,1,7,0.142857142857143

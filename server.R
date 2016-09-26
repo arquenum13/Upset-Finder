@@ -3,8 +3,7 @@ library(markdown)
 library(magrittr)
 library(DT)
 library(shinydashboard)
-
-start <- as.POSIXct(as.Date("November 12 2016 T19:00:00", format = "%B %d %Y T%H:%M:%S"))
+library(ggplot2)
 
 shinyServer(function(input, output, session) {
   output$mydata <- DT::renderDataTable(datatable(df[df$Date == input$dates, -c(1)], 
@@ -28,4 +27,9 @@ shinyServer(function(input, output, session) {
     
     list(src = filename,
          alt = paste("Image number", input$n))}, deleteFile = FALSE)
+  
+  output$distPlot <- renderPlot({
+    heater(input$year)
+  })
+  
 })
