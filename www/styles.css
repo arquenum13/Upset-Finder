@@ -65,3 +65,8 @@ p {
 .content-wrapper {
   background-color: #222D32;
 }
+
+#lable {
+  font-size: 100%;
+  color: #FFFFFF;
+}

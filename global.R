@@ -5,6 +5,10 @@ library(DT)
 library(shinydashboard)
 library(ggplot2)
 library(viridis)
+library(scatterD3)
+
+options(warn=-1)
+#options(warn=0)
 
 df <- read.csv("2015-2016_Schedule.csv", header = TRUE)
 df$Date <- as.Date(gsub("/","-",as.character(df$Date)), "%m-%d-%Y")
@@ -14,6 +18,14 @@ df1 <- df[df$Date <= week & df$Date >= current1,]
 h7 <- read.csv("2014-2016_Game_Results_Upset_Conf_Statistics.csv", header = T)
 
 start <- as.POSIXct(as.Date("November 12 2016 T19:00:00", format = "%B %d %Y T%H:%M:%S"))
+
+all_Data <- read.csv("2016_STATS_PROB_v2.csv", header = TRUE)
+all_Data <- all_Data[all_Data$ORPG > 0,]
+conferences <- levels(all_Data$CONFERENCE)
+teams <- c("All",levels(all_Data$TEAM))
+
+df2 <- read.csv("NCAA_Tournament_History_Prob.csv", header = TRUE)
+df2$ROUND. <- factor(df2$ROUND., levels = df2$ROUND.)
 
 heater <- function(year){
   heat <- ggplot(h7[h7$SEASON==year,], aes(x=TEAM_CONF, y=OPP_CONF, fill=PERCENT)) + geom_tile(color="white", size=0.1) + 

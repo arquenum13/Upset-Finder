@@ -14,12 +14,7 @@ shinyUI(
       menuItem(text = "Home", tabName = "home"),
       menuItem(text = "Forecast", tabName = "forecast"),
       menuItem(text = "Conferences", tabName = "conf"),
-      menuItem(text = "NCAA Tournament",
-               menuSubItem(text = "2012", tabName = "y2012"),
-               menuSubItem(text = "2013", tabName = "y2013"),
-               menuSubItem(text = "2014", tabName = "y2014"),
-               menuSubItem(text = "2015", tabName = "y2015"),
-               menuSubItem(text = "2016", tabName = "y2016")),
+      menuItem(text = "NCAA Tournament", tabName = "ncaa"),
       menuItem(text = "About", tabName = "about")
       )),
     
@@ -27,10 +22,12 @@ shinyUI(
       tabItems(
         tabItem(tabName = "home", 
               source("homePage.R", local = TRUE)[1]),
+        tabItem(tabName = "conf", class = "body",
+                source("Conf_Page.R", local = TRUE)[1]),
         tabItem(tabName = "forecast", class = "body",
               source("pred_tbl.R", local = TRUE)[1]),
-        tabItem(tabName = "conf",
-              source("heatMapPage.R", local = TRUE)[1]),
+        tabItem(tabName = "ncaa",
+              source("tourny_page.R", local = TRUE)[1]),
         tabItem(tabName = "about", includeMarkdown("About_Info.Rmd"))
       )
     )
