@@ -20,16 +20,16 @@ h7 <- read.csv("2014-2016_Game_Results_Upset_Conf_Statistics.csv", header = T)
 start <- as.POSIXct(as.Date("November 12 2016 T19:00:00", format = "%B %d %Y T%H:%M:%S"))
 
 all_Data <- read.csv("2016_STATS_PROB_v2.csv", header = TRUE)
-all_Data <- all_Data[all_Data$ORPG > 0,]
+all_Data <- all_Data[all_Data$ORPG > 0 | all_Data$ELO_DIFF < 0,]
 conferences <- levels(all_Data$CONFERENCE)
 teams <- c("All",levels(all_Data$TEAM))
 
 df2 <- read.csv("NCAA_Tournament_History_Prob.csv", header = TRUE)
-df2$ROUND. <- factor(df2$ROUND., levels = df2$ROUND.)
+df2$ROUND <- factor(df2$ROUND, levels = df2$ROUND)
 
-heater <- function(year){
-  heat <- ggplot(h7[h7$SEASON==year,], aes(x=TEAM_CONF, y=OPP_CONF, fill=PERCENT)) + geom_tile(color="white", size=0.1) + 
-    scale_fill_viridis(name="Upset Percentage")+ theme(axis.text.x=element_text(angle = -90, hjust = 0)) +
-    labs(x="Team", y="Opponent", title=paste("Frequency of Upsets Between Conferences in", year, sep=" "))
-  return(heat)
-}
+#heater <- function(year){
+#  heat <- ggplot(h7[h7$SEASON==year,], aes(x=TEAM_CONF, y=OPP_CONF, fill=PERCENT)) + geom_tile(color="white", size=0.1) + 
+#    scale_fill_viridis(name="Upset Percentage")+ theme(axis.text.x=element_text(angle = -90, hjust = 0)) +
+#    labs(x="Team", y="Opponent", title=paste("Frequency of Upsets Between Conferences in", year, sep=" "))
+#  return(heat)
+#}

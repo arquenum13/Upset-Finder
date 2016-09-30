@@ -14,6 +14,12 @@ h2 {
   color: #FFFFFF;
 }
 
+h3 {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
 p {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 15px;
@@ -34,6 +40,10 @@ p {
 
 .body {
   background-color: #222D32;
+}
+
+.sidebar-menu {
+  font-size: 20px;
 }
 
 .check {
@@ -66,7 +76,24 @@ p {
   background-color: #222D32;
 }
 
-#lable {
-  font-size: 100%;
-  color: #FFFFFF;
+text.color-legend-label {
+  font-size: 50px;
+}
+text[style]{
+  fill: #FFFFFF !important;
+  font-size: 20px;
+}
+
+text.label {
+  font-size: 135%;
+  fill: #FFFFFF;
+}
+
+style.scatterD3 .axis text {
+    fill: #FFFFFF ! important;
+}
+
+.checkbox{
+  color: #ffffff;
+  font-size: 125%;
 }

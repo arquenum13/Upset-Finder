@@ -74,16 +74,17 @@ shinyServer(function(input, output, session) {
   })
   
   dataT <- reactive({
-    df2[which(df2$YEAR==input$year),]
+    #eval(parse(text=paste('df2$YEAR==',input$year,sep="")))
+    #print(paste('df2$YEAR==',input$year,sep=""))
+    df2[which(eval(parse(text=paste(paste('df2$YEAR=="Target" | df2$YEAR==',input$year,sep=""),collapse = " | ")))),]
   })
+  
   
   output$mychart <- renderPlot({
-    
-    ggplot(data=dataT(), aes(x=ROUND., y=PROBABILITY, group=1)) +
-      geom_line(size=2,colour="blue") +
-      geom_point(size=3, colour="white") +
-      expand_limits(y=c(0,1)) +
-      xlab("") + ylab("Accuracy")
+    #print(dataT())
+    ggplot(data=dataT(), aes(x=ROUND, y=PROBABILITY, group=YEAR, colour=as.factor(YEAR))) +
+      geom_line(size=2) +
+      geom_point(size=3) +
+      xlab("") + ylab("Accuracy") + labs(colour = "Season") + theme_grey(base_size = 18) + guides(colour = guide_legend(reverse=T))
   })
-  
 })
