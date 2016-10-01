@@ -10,7 +10,7 @@ shinyUI(
     dashboardHeader(
       title = "Search Contents"),
     
-    dashboardSidebar(sidebarMenu(
+    dashboardSidebar(sidebarMenu(id="menu",
       menuItem(text = "Home", tabName = "home"),
       menuItem(text = "Forecast", tabName = "forecast"),
       menuItem(text = "Conferences", tabName = "conf"),

@@ -15,11 +15,9 @@ fluidPage(
                    <ul>
                    <li>Zoom on the chart with the mousewheel</li>
                    <li>Pan the plot</li>
-                   <li>Drag text labels</li>
                    <li>Hover over a dot to display tooltips</li>
                    <li>Hover over the color or symbol legends items</li>
                    <li>Change data settings to see transitions</li>
-                   <li>Resize the window to test for responsiveness</li>
                    <li>Try the lasso plugin with the toggle button or by using Shift+click</li>
                    </ul>")))),
   sidebarLayout(
@@ -32,11 +30,11 @@ fluidPage(
       selectInput("features_x3", "Features :",
                   choices = names(all_Data[c(4:21,26)]),
                   selected = "ORPG"),
-      checkboxInput("scatterD3_ellipses", "Confidence ellipses", value = FALSE),
+      #checkboxInput("scatterD3_ellipses", "Confidence ellipses", value = FALSE),
       #sliderInput("scatterD3_labsize", "Labels size :",
       #            min = 5, max = 25, value = 11),
       sliderInput("scatterD3_opacity", "Points opacity :", min = 0, max = 1, value = 1, step = 0.05),
-      checkboxInput("scatterD3_transitions", "Use transitions", value = TRUE),
+      #checkboxInput("scatterD3_transitions", "Use transitions", value = TRUE),
       tags$p(actionButton("scatterD3-reset-zoom", HTML("<span class='glyphicon glyphicon-search' aria-hidden='true'></span> Reset Zoom")),
              actionButton("scatterD3-lasso-toggle", HTML("<span class='glyphicon glyphicon-screenshot' aria-hidden='true'></span> Toggle Lasso"), "data-toggle" = "button"),
              tags$a(id = "scatterD3-svg-export", href = "#",

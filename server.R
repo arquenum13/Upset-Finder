@@ -64,9 +64,9 @@ shinyServer(function(input, output, session) {
               col_var = x_var,
               col_lab = "Team",
               size_lab = input$scatterD3_labsize,
-              ellipses = input$scatterD3_ellipses,
+              #ellipses = input$scatterD3_ellipses,
               point_opacity = input$scatterD3_opacity,
-              transitions = input$scatterD3_transitions,
+              transitions = T,
               #axes_font_size = "120%",
               #legend_font_size = "14px",
               lasso = TRUE,
@@ -86,5 +86,19 @@ shinyServer(function(input, output, session) {
       geom_line(size=2) +
       geom_point(size=3) +
       xlab("") + ylab("Accuracy") + labs(colour = "Season") + theme_grey(base_size = 18) + guides(colour = guide_legend(reverse=T))
+  })
+  ################################################################################
+  #http://stackoverflow.com/questions/33021757/externally-link-to-specific-tabpanel-in-shiny-app
+  
+  observe({
+
+    query <- parseQueryString(session$clientData$url_search)
+
+    url <- query$tab
+    if (is.null(url)) {
+      url <- ""
+    }
+    
+    updateTabsetPanel(session, "menu", url)
   })
 })

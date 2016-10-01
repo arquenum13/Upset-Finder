@@ -16,7 +16,7 @@ Upset Finder provides insights on men's NCAA college basketball matchups.  Want 
 
 The proposed approach constructs a logistic regression model, built using 2015-2016 basketball season data. This process will provide the end user the ability to identify the potential upset matchups and its corresponding probability.
 
-Manipulate and Format the data to reflect the below stats for each team: 3P, 3P%, 3PA, AST, BLK, Blocks, Date, DRB, DRtg, DRtg/A, ELO Rating, FG, FG%, FGA, FT, FT%, FTA, L, MP, ORB, ORtg, PF, PTS, Schl, SOS, STL, TOV, TOV%, TRB, Team, W, and W-L%. Descriptions and legend can be found below:
+Manipulate and Format the data to reflect the below stats for each team: 3P, 3P%, 3PA, AST, BLK, Blocks, Date, DRB, DRtg, ELO Rating, FG, FG%, FGA, FT, FT%, FTA, L, MP, ORB, ORtg, PF, PTS, Schl, SOS, STL, TOV, TOV%, TRB, Team, W, and W-L%. Descriptions and legend can be found below:
 
 <center>
 <img src="FeatureTable.jpg" width="1000">
