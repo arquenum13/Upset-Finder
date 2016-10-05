@@ -10,7 +10,8 @@ fluidPage(
   tags$head(
   tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")),
   
-  headerPanel("Locator"),
+  h1("Upset Locator"),
+  h4("Search the table to find match-up of interest and check the probability of an upset occuring"),
   
   sidebarLayout(
     
@@ -21,7 +22,7 @@ fluidPage(
                   selected = as.character(current1)),
       
       strong("Disclaimer:"),
-      h5("This site is a prototype to illustrate the conceptual design of a sport prediction model.  
+      h6("This site is a prototype to illustrate the conceptual design of a sport prediction model.  
          The site reflects historical data for the 2015-2016 Men's NCAA Basketball season.  The decision threshold 
          for an upset is 40%.")
       ),

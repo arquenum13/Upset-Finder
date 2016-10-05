@@ -20,10 +20,32 @@ h3 {
   color: #FFFFFF;
 }
 
+h4 {
+  color: #FFFFFF;
+}
+
 p {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size: 15px;
   color: #FFFFFF;
+}
+
+h5 {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+.mg-x-axis text {
+    font-size: 1.5rem !important;
+}
+
+.mg-y-axis text {
+    font-size: 1.5rem !important;
+}
+
+.mg-active-datapoint {
+    font-size: 1.5rem !important;
 }
 
 .bhome {

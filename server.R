@@ -4,6 +4,9 @@ library(magrittr)
 library(DT)
 library(shinydashboard)
 library(ggplot2)
+#library(htmltools)
+#library(htmlwidgets)
+library(metricsgraphics)
 
 shinyServer(function(input, output, session) {
   output$mydata <- DT::renderDataTable(datatable(df[df$Date == input$dates, -c(1)], 
@@ -28,8 +31,18 @@ shinyServer(function(input, output, session) {
     list(src = filename,
          alt = paste("Image number", input$n))}, deleteFile = FALSE)
   
-  output$distPlot <- renderPlot({
-    heater(input$year)
+  #output$distPlot <- renderPlot({
+  #  heater(input$year)
+  #})
+  output$barchart <- renderMetricsgraphics({
+    corMartix <- cor(data()[,c(25)],data()[,c(4:17,21)])
+    dir <- ifelse(corMartix < 0,"Negative","Positive")
+    corMartix <- data.frame(Cor = t(corMartix), Features = colnames(corMartix), Direction = dir)
+    
+    bc <- corMartix %>% mjs_plot(x=Cor, y=Features, title="Feature Correlation") %>%
+      mjs_bar() %>%
+      mjs_axis_x(xax_format = 'plain')
+    return(bc)
   })
   
   data <- reactive({

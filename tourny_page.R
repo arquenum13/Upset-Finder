@@ -1,5 +1,6 @@
 fluidPage(
-  tags$h2("NCAA Tournament Performance"),
+  h1("NCAA Tournament Performance"),
+  h4("Explore model performance on pervious NCAA Tournamenst."),
   fluidRow(
     column(2, 
       checkboxGroupInput("year", label = h3("Season"), 
