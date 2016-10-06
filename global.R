@@ -6,6 +6,7 @@ library(shinydashboard)
 library(ggplot2)
 library(viridis)
 library(scatterD3)
+library(metricsgraphics)
 
 options(warn=-1)
 #options(warn=0)
