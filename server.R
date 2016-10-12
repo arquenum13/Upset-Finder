@@ -81,6 +81,7 @@ shinyServer(function(input, output, session) {
               col_var = data()$TEAM,
               col_lab = "Teams",
               size_lab = input$scatterD3_labsize,
+              symbol_var = data()$RESULT,
               #ellipses = input$scatterD3_ellipses,
               point_opacity = input$scatterD3_opacity,
               transitions = T,

@@ -27,7 +27,7 @@ fluidPage(
       ),
     
     mainPanel(
-      div(DT::dataTableOutput("mydata"), style = "font-size: 75%; width: 100%;background-color: #FFFFFF;")
+      div(DT::dataTableOutput("mydata"), style = "font-size: 110%; width: 100%;background-color: #FFFFFF;")
     )
       )
   )
