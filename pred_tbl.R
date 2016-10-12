@@ -10,21 +10,20 @@ fluidPage(
   tags$head(
   tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")),
   
-  h1("Upset Locator"),
-  h4("Search the table to find match-up of interest and check the probability of an upset occuring"),
+  h1("Upset Predictions"),
+  h4("Search the table to find a game of interest and check the probability of an upset occuring. An upset is defined as the favorite team 
+     losing. The asterisk denotes which team is favored heading into a game.", align = "center"),
+  h4("See the About section, for more information on how a team was identified as the favorite.", align = "center"),
   
   sidebarLayout(
     
     sidebarPanel(
       selectInput(inputId = "dates",
-                  label = "Select Date of Match:",
+                  label = "Date of Game:",
                   choices = unique(as.character(df1$Date)),
                   selected = as.character(current1)),
       
-      strong("Disclaimer:"),
-      h6("This site is a prototype to illustrate the conceptual design of a sport prediction model.  
-         The site reflects historical data for the 2015-2016 Men's NCAA Basketball season.  The decision threshold 
-         for an upset is 40%.")
+      h6("")
       ),
     
     mainPanel(

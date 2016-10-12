@@ -8,25 +8,35 @@ output: html_document
 
 ## The Site
 
-Upset Finder was launched in 2016 with the goal of providing fans a tool to find games of interest and help with March Madness.
+Upset Finder was launched in 2016 with the goal of providing the  probability of an upset for any Division 1 game and help develop a March Madness bracket.
 
-Upset Finder provides insights on men's NCAA college basketball matchups.  Want to know which games most likely will result in an upset? Upset Finder can answer your question.
+Upset Finder presents insights on men's NCAA college basketball games.  Want to know which game most likely will result in an upset? Upset Finder can answer that question!!!
 
 ## Analysis
 
-The proposed approach constructs a logistic regression model, built using 2015-2016 basketball season data. This process will provide the end user the ability to identify the potential upset matchups and its corresponding probability.
-
-Manipulate and Format the data to reflect the below stats for each team: 3P, 3P%, 3PA, AST, BLK, Blocks, Date, DRB, DRtg, ELO Rating, FG, FG%, FGA, FT, FT%, FTA, L, MP, ORB, ORtg, PF, PTS, Schl, SOS, STL, TOV, TOV%, TRB, Team, W, and W-L%. Descriptions and legend can be found below:
+To construct the predictor, the previous 3 seasons were analyzed (2014 - 2016), which contained over 34,000 data points. Offensive and defensive game statistics were considered; as well as, calculated adjusted efficiency statistics. Acronyms and descriptions for the statistics are found below:
 
 <center>
 <img src="FeatureTable.jpg" width="1000">
 </center>
 
-The statistics for each team and their opponent are matched and the relative difference is calculated. The resulting values are passed through a logistic regression model. Note, the team ELO rating is used to determine which team is favored (higher ELO rating) heading into the matchup.
+The statistics for each team and their opponent are matched and the relative difference is calculated. The resulting values are passed through a Logistic, Support Vector Machine, and Naive Bayes model. The teams' ELO rating is used to determine which team is favored heading into the game.  The higher rated team is classified as the favorite
 
-The data was through a Support Vector Machine, Logistic Regression, and Naive Bayes classification model. Each model was cross validated using 10 folds and tune for their specific parameter. The results show that the Support Vector Machine performed the best with an average ROC score of 0.85.
+Each model was cross validated using 10 folds and tuned on their specific hyper-parameter. The results show that the Support Vector Machine performed the best with an average ROC score of 0.85.
 
 <center>
 ![](model_bwplot.png)
 </center>
+
+
+Data Sources:
+
+  - <span style="font-size:18px">Spreadsheet Sports</span>
+  - <span style="font-size:18px">Team Rankings</span>
+  - <span style="font-size:18px">Basketball Reference</span>
+  - <span style="font-size:18px">ESPN</span>
+  - <span style="font-size:18px">Spreadsheet Sports NCAA Public</span>
+  - <span style="font-size:18px">CBS Sports</span>
+  - <span style="font-size:18px">FiveThirtyEight</span>
+
 
