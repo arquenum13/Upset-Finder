@@ -1,4 +1,3 @@
-#https://github.com/juba/scatterD3_shiny_app
 library(shiny)
 library(scatterD3)
 
@@ -22,18 +21,9 @@ fluidPage(
       selectInput("class", "Odds :",
                   choices = c("Underdog","Favorite"),
                   selected = "Underdog"),
-      #checkboxInput("scatterD3_ellipses", "Confidence ellipses", value = FALSE),
-      #sliderInput("scatterD3_labsize", "Labels size :",
-      #            min = 5, max = 25, value = 11),
       sliderInput("scatterD3_opacity", "Points opacity :", min = 0, max = 1, value = 1, step = 0.05),
-      #checkboxInput("scatterD3_transitions", "Use transitions", value = TRUE),
       tags$p(actionButton("scatterD3-reset-zoom", HTML("<span class='glyphicon glyphicon-search' aria-hidden='true'></span> Reset Zoom"))),
-             #actionButton("scatterD3-lasso-toggle", HTML("<span class='glyphicon glyphicon-screenshot' aria-hidden='true'></span> Toggle Lasso"), "data-toggle" = "button"),
-             #tags$a(id = "scatterD3-svg-export", href = "#",
-            #      class = "btn btn-default", HTML("<span class='glyphicon glyphicon-save' aria-hidden='true'></span> Download SVG"))),
-      #br(),
       div(strong("Use the below chart to find which statistic is most correlated with the upset probability"), align = "center"), 
-          #class="correlation"),#align = "center", style = "font-size: 200px; font-colot; #000000"),
       metricsgraphicsOutput("barchart", width = "100%")
     ),
     mainPanel(

@@ -3,11 +3,6 @@ fluidPage(
   h4("Explore model performance on pervious NCAA Tournaments.", align="center"),
   fluidRow(
     column(2, 
-      # checkboxGroupInput("year", label = h3("Season"), 
-      #                    choices = list("2016" = 2016, "2015" = 2015, "2014" = 2014,
-      #                                   "2013" = 2013, "2012" = 2012, "2011" = 2011,
-      #                                   "2010" = 2010),
-      #                    selected = 2016)),
      div(radioButtons("season", h3("Season :"),
                  c("2016" = 2016,
                    "2015" = 2015,
@@ -32,8 +27,6 @@ fluidPage(
     br(),
     br(),
     column(10, 
-      #plotOutput("mychart", width = "100%", height = "500px",hover = "plot_hover"),
-      #br(),
       uiOutput("ggvis_ui"),
       ggvisOutput("ggvis"),
       p("There are 6 rounds to the NCAA tournament (Play-Ins do not count), for each correct winner picked, a player is awarded 

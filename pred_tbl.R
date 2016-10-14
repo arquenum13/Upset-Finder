@@ -6,7 +6,6 @@ library(shinydashboard)
 
 fluidPage(
   
-  #includeCSS("www/styles.css"),
   tags$head(
   tags$link(rel = "stylesheet", type = "text/css", href = "styles.css")),
   

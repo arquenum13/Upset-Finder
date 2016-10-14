@@ -3,9 +3,6 @@ library(markdown)
 library(magrittr)
 library(DT)
 library(shinydashboard)
-#library(ggplot2)
-#library(htmltools)
-#library(htmlwidgets)
 library(metricsgraphics)
 library(scatterD3)
 library(ggvis)
@@ -33,9 +30,6 @@ shinyServer(function(input, output, session) {
     list(src = filename,
          alt = paste("Image number", input$n))}, deleteFile = FALSE)
   
-  #output$distPlot <- renderPlot({
-  #  heater(input$year)
-  #})
   output$barchart <- renderMetricsgraphics({
     corMartix <- cor(data()[,c(25)],data()[,c(4:17,21)])
     dir <- ifelse(corMartix < 0,"Negative","Positive")
@@ -73,7 +67,6 @@ shinyServer(function(input, output, session) {
   
   output$scatterPlot <- renderScatterD3({
     x_var <- data()[,"TEAM"]
-    #print(unique(as.character(x_var)))
     scatterD3(x = data()[,input$features_x3],
               y = data()[,"PROB"],
               xlab = input$features_x3,
@@ -82,30 +75,16 @@ shinyServer(function(input, output, session) {
               col_lab = "Teams",
               size_lab = input$scatterD3_labsize,
               symbol_var = data()$RESULT,
-              #ellipses = input$scatterD3_ellipses,
               point_opacity = input$scatterD3_opacity,
               transitions = T,
               legend_width = 10,
-              #axes_font_size = "120%",
-              #legend_font_size = "14px",
               lasso = FALSE,
               lasso_callback = "function(sel) {alert(sel.data().map(function(d) {return d.lab}).join('\\n'));}")
   })
   
   dataT <- reactive({
-    #eval(parse(text=paste('df2$YEAR==',input$year,sep="")))
-    #print(paste('df2$YEAR==',input$year,sep=""))
     df2[which(eval(parse(text=paste(paste('df2$YEAR=="Target" | df2$YEAR==',input$year,sep=""),collapse = " | ")))),]
   })
-  
-  
-  # output$mychart <- renderPlot({
-  #   #print(dataT())
-  #   ggplot(data=dataT(), aes(x=ROUND, y=PROBABILITY, group=YEAR, colour=as.factor(YEAR))) +
-  #     geom_line(size=2) +
-  #     geom_point(size=3) +
-  #     xlab("") + ylab("Accuracy") + labs(colour = "Season") + theme_grey(base_size = 18) + guides(colour = guide_legend(reverse=T))
-  # })
   
   output$table <- renderTable(scoreSys)
   output$table2 <- renderTable(feats, colnames = FALSE)
