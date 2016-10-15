@@ -1,5 +1,4 @@
-This is a sample app to demonstrate using [Shiny](http://shiny.rstudio.com/) with the R buildpack.
+# Upset Finder
 
-Example taken from the [Brent Tubbs](https://github.com/btubbs) [shiny-example-1](https://github.com/btubbs/shiny-example-1).
+This app is the culmination of my capstone project at [The Data Incubator](https://www.thedataincubator.com/). My app, Upset Finder, provides the  probability of an upset for any Division 1 Men's College Basketball game and presents insights on indicators for those upsets. For a demonstration of the app, [Click Here](https://youtu.be/gZk1AWPMYHc). If your would like to check out my app, [Click Here](https://upset-finder.herokuapp.com/).
 
-See the [Shiny Tutorial](http://rstudio.github.io/shiny/tutorial/#hello-shiny) for more information.
